@@ -1,1 +1,77 @@
-
+CCAA;SEXO;IMC;n
+Andalucía;Hombre;NoSobrepeso;458
+Andalucía;Mujer;NoSobrepeso;700
+Andalucía;Hombre;Sobrepeso;877
+Andalucía;Mujer;Sobrepeso;781
+Aragón;Mujer;NoSobrepeso;270
+Aragón;Hombre;NoSobrepeso;184
+Aragón;Mujer;Sobrepeso;233
+Aragón;Hombre;Sobrepeso;315
+Asturias, Principado de;Hombre;NoSobrepeso;110
+Asturias, Principado de;Mujer;NoSobrepeso;213
+Asturias, Principado de;Mujer;Sobrepeso;253
+Asturias, Principado de;Hombre;Sobrepeso;225
+Balears, Illes;Hombre;NoSobrepeso;168
+Balears, Illes;Hombre;Sobrepeso;220
+Balears, Illes;Mujer;Sobrepeso;180
+Balears, Illes;Mujer;NoSobrepeso;289
+Canarias;Mujer;NoSobrepeso;259
+Canarias;Mujer;Sobrepeso;278
+Canarias;Hombre;Sobrepeso;312
+Canarias;Hombre;NoSobrepeso;188
+Cantabria;Hombre;NoSobrepeso;100
+Cantabria;Hombre;Sobrepeso;185
+Cantabria;Mujer;NoSobrepeso;168
+Cantabria;Mujer;Sobrepeso;153
+Castilla - La Mancha;Mujer;NoSobrepeso;253
+Castilla - La Mancha;Hombre;NoSobrepeso;173
+Castilla - La Mancha;Hombre;Sobrepeso;339
+Castilla - La Mancha;Mujer;Sobrepeso;252
+Castilla y León;Mujer;NoSobrepeso;368
+Castilla y León;Hombre;NoSobrepeso;220
+Castilla y León;Hombre;Sobrepeso;378
+Castilla y León;Mujer;Sobrepeso;269
+Cataluña;Mujer;Sobrepeso;571
+Cataluña;Hombre;NoSobrepeso;418
+Cataluña;Hombre;Sobrepeso;643
+Cataluña;Mujer;NoSobrepeso;634
+Ceuta;Mujer;Sobrepeso;77
+Ceuta;Hombre;Sobrepeso;74
+Ceuta;Hombre;NoSobrepeso;37
+Ceuta;Mujer;NoSobrepeso;60
+Comunitat Valenciana;Mujer;Sobrepeso;460
+Comunitat Valenciana;Mujer;NoSobrepeso;498
+Comunitat Valenciana;Hombre;Sobrepeso;558
+Comunitat Valenciana;Hombre;NoSobrepeso;305
+Extremadura;Hombre;Sobrepeso;317
+Extremadura;Mujer;Sobrepeso;223
+Extremadura;Mujer;NoSobrepeso;230
+Extremadura;Hombre;NoSobrepeso;138
+Galicia;Mujer;Sobrepeso;385
+Galicia;Hombre;NoSobrepeso;191
+Galicia;Hombre;Sobrepeso;398
+Galicia;Mujer;NoSobrepeso;312
+Madrid, Comunidad de;Mujer;Sobrepeso;459
+Madrid, Comunidad de;Hombre;Sobrepeso;568
+Madrid, Comunidad de;Hombre;NoSobrepeso;358
+Madrid, Comunidad de;Mujer;NoSobrepeso;593
+Melilla;Mujer;NoSobrepeso;86
+Melilla;Hombre;Sobrepeso;79
+Melilla;Hombre;NoSobrepeso;36
+Melilla;Mujer;Sobrepeso;75
+Murcia, Región de;Hombre;Sobrepeso;307
+Murcia, Región de;Mujer;Sobrepeso;322
+Murcia, Región de;Mujer;NoSobrepeso;241
+Murcia, Región de;Hombre;NoSobrepeso;136
+Navarra, Comunidad Foral de;Mujer;NoSobrepeso;241
+Navarra, Comunidad Foral de;Hombre;Sobrepeso;201
+Navarra, Comunidad Foral de;Hombre;NoSobrepeso;117
+Navarra, Comunidad Foral de;Mujer;Sobrepeso;175
+País Vasco;Mujer;Sobrepeso;332
+País Vasco;Mujer;NoSobrepeso;445
+País Vasco;Hombre;NoSobrepeso;280
+País Vasco;Hombre;Sobrepeso;424
+Rioja, La;Hombre;Sobrepeso;183
+Rioja, La;Hombre;NoSobrepeso;98
+Rioja, La;Mujer;NoSobrepeso;201
+Rioja, La;Mujer;Sobrepeso;162
