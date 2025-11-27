@@ -1,0 +1,21 @@
+
+Call:
+glm(formula = counts ~ sex * bmi, family = poisson)
+
+Coefficients:
+                      Estimate Std. Error z value Pr(>|z|)    
+(Intercept)            5.23644    0.07293  71.798  < 2e-16 ***
+sexMujer               0.32039    0.09581   3.344 0.000826 ***
+bmiSobrepeso           0.50656    0.09233   5.487  4.1e-08 ***
+sexMujer:bmiSobrepeso -0.43577    0.12642  -3.447 0.000567 ***
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+(Dispersion parameter for poisson family taken to be 1)
+
+    Null deviance:  3.3068e+01  on 3  degrees of freedom
+Residual deviance: -1.2434e-14  on 0  degrees of freedom
+AIC: 37.518
+
+Number of Fisher Scoring iterations: 2
+

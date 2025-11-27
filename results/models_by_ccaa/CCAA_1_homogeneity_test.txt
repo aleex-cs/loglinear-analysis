@@ -1,0 +1,2 @@
+   dev_sym df_sym        dev_qs df_qs dev_diff df_diff pval_homogeneity
+1 19.90812      1 -7.682743e-14     0 19.90812       1     8.125431e-06

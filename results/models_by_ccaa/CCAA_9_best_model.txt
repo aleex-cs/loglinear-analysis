@@ -1,0 +1,20 @@
+
+Call:
+glm(formula = counts ~ sym_interaction, family = poisson)
+
+Coefficients:
+                 Estimate Std. Error z value Pr(>|z|)    
+(Intercept)       6.03548    0.04891 123.396  < 2e-16 ***
+sym_interaction2  0.42364    0.05635   7.518 5.57e-14 ***
+sym_interaction4  0.31191    0.06437   4.845 1.26e-06 ***
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+(Dispersion parameter for poisson family taken to be 1)
+
+    Null deviance: 60.53102  on 3  degrees of freedom
+Residual deviance:  0.06343  on 1  degrees of freedom
+AIC: 38.717
+
+Number of Fisher Scoring iterations: 3
+

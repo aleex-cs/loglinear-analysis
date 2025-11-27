@@ -1,0 +1,10 @@
+           Model  P_Value       AIC
+1           Null 0.000000 107.27748
+2      Saturated 0.000000  40.08981
+3 No Association 0.000000 100.32491
+4        Uniform 0.000000  40.08981
+5       Symmetry 0.463109  38.62818
+6 Quasi-Symmetry 1.000000  40.08981
+7         Extra1 0.000000  40.08981
+8         Extra2 0.000000  40.08981
+9         Extra3 1.000000  40.08981
