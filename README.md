@@ -1,4 +1,4 @@
-# loglinear_analysis
+# loglinear-analysis
 
 This repository contains the analysis of three-way contingency tables from the Spanish National Health Survey 2017 (ENSE 2017) using loglinear models. The goal is to study the relationships between BMI, Sex, and Age or Autonomous Community (CCAA).
 
@@ -16,7 +16,7 @@ loglinear_analysis/
 
 │   └─ AGE_SEX_BMI.csv         # Contingency table: AGE x SEX x BMI
 
-├─ scripts/
+├─ script/
 
 │   └─ loglinear_models.R      # Main R script for analysis
 
@@ -57,7 +57,7 @@ cd loglinear_analysis
 2. Place the data files inside the data/ folder.
 3. Open R or RStudio and run the main script:
 ```
-source("scripts/loglinear_models.R")
+source("script/loglinear_models.R")
 ```
 4. The script will:
   - Fit all loglinear models by CCAA and Age.
